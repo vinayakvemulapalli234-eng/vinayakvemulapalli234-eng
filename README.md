@@ -1,6 +1,6 @@
 # Hey, I'm Vinayak 👋
 
-2nd year B.Tech CSE @ SRKR Engineering College | CGPA: 9.07  
+3nd year B.Tech CSE @ SRKR Engineering College | CGPA: 9.07  
 Building intelligent systems with AI + Full Stack Engineering  
 · LIC Scholar · Toastmasters Treasurer
 
