@@ -18,12 +18,12 @@ Building intelligent systems with AI + Full Stack Engineering
 
 ## 🛠 Tech Stack
 
-**Languages** → Python · JavaScript · C · Java  
-**Frontend** → React.js · HTML · CSS  
-**Backend** → FastAPI · Flask · Node.js · REST APIs  
-**AI/ML** → Scikit-learn · TF-IDF · Random Forest · Groq LLM  
-**Databases** → SQLite · MySQL · Supabase (PostgreSQL)  
-**Tools** → Git · GitHub · VS Code · Chart.js
+Languages: Python, Java, C
+Frontend: React.js, HTML, CSS
+Backend & APIs: FastAPI, REST APIs
+Databases: PostgreSQL
+Tools: Git, GitHub
+Core CS: Data Structures & Algorithms, OOP, DBMS, Operating Systems, Computer Networks
 
 ---
 
